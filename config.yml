@@ -49,6 +49,7 @@ outputs:
         - JSON
 
 params:
+    disableThemeToggle: true
     fingerprint: "sha512"
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "" #Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"

@@ -7,16 +7,14 @@ ShowReadingTime: false
 comments: false
 showtoc: false
 hideMeta: true
-imprInfoName1: Andreas Jens Dieckmann
-imprInfoCompany: diecknet UG (haftungsbeschränkt)
-imprInfoStreet: Pestalozzistrasse 25
-imprInfoCity: 22305 Hamburg
-imprInfoUstId: "-- beantragt, wird später nachgereicht --"
-imprInfoEmail: diecknet.de
+imprInfoName1: Hagen Paul Pfeifer
+imprInfoCompany: privat
+imprInfoStreet: Haslangstr. 7
+imprInfoCity: 80689 Munich
+imprInfoUstId: ""
+imprInfoEmail: hagen@jauu.net
 imprInfoE1: impressum
-imprInfoTe: +49 40 5247 1765
-imprInfoHRN: HRB 179818
-imprInfoHRG: Amtsgericht Hamburg
+imprInfoTe: +49 1745455209
 rss_ignore: true
 ---
 ## Angaben gemäß § 5 TMG
@@ -25,24 +23,16 @@ rss_ignore: true
 {{< param imprInfoStreet >}}  
 {{< param imprInfoCity >}}  
 
-Geschäftsführer: {{< param imprInfoName1 >}}  
-Handelsregister: {{< param imprInfoHRN >}}  
-Registergericht: {{< param imprInfoHRG >}}  
+{{< param imprInfoName1 >}}  
 
 ## Kontakt
 
 Telefon: {{< param imprInfoTe >}}  
 E-Mail: {{< param imprInfoE1 >}}`@`{{< param imprInfoEmail >}}  
 
-## Umsatzsteuer-ID
-
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
-{{< param imprInfoUstId >}}  
-
 ## Redaktionell verantwortlich
 
 {{< param imprInfoName1 >}}  
-c/o {{< param imprInfoCompany >}}  
 {{< param imprInfoStreet >}}  
 {{< param imprInfoCity >}}  
 E-Mail: {{< param imprInfoE1 >}}`@`{{< param imprInfoEmail >}}  
