@@ -2,7 +2,7 @@
 title: "A Breath of Fresh Air - Updated Neovim Setup"
 description: ""
 date: 2024-01-12T08:49:59+01:00
-draft: true
+draft: false
 tags: ["vim", "neovim", "telescope", "dracula" ]
 toc: false
 hideSummary: false
