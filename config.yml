@@ -71,12 +71,13 @@ params:
     # comments: false
     #images: ["papermod-cover.png"]
 
-    homeInfoParams:
-        Title: "Blog Posts"
-        Content: >
-          Cyber-Security Researcher and Developer having interests in
-          Application-Security, *nix based Systems, Android, Reverse
-          Engineering and Programming; loves Command Line, FOSS. Read more..
+      #homeInfoParams:
+        #Title: "Hi!"
+        #Content: >
+        #  Welcome to my personal Space
+        #  Cyber-Security Researcher and Developer having interests in
+        #  Application-Security, *nix based Systems, Android, Reverse
+        #  Engineering and Programming; loves Command Line, FOSS. Read more..
 
 
     # label:
