@@ -1,0 +1,3 @@
+
+bootstrap:
+	apt install hugo
