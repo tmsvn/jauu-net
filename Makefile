@@ -6,4 +6,4 @@ bootstrap:
 	git submodule update --init --recursive
 
 help:
-	echo "hugo new posts/hello-world.de.md"
+	echo "hugo new --kind post posts/hello-world.de.md"

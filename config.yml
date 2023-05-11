@@ -22,12 +22,18 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
+                - identifier: archive
+                  name: Archive
                   url: archives
                   weight: 5
-                - name: Search
+                - identifier: search
+                  name: Search
                   url: search/
                   weight: 10
+                - identifier: tags
+                  name: Tags
+                  url: /tags/
+                  weight: 20
 
     de:
         languageName: ":de:"
@@ -35,12 +41,18 @@ languages:
         weight: 2
         menu:
             main:
-                - name: Archive
+                - identifier: archive
+                  name: Archiv
                   url: archives
                   weight: 5
-                - name: Suche
-                  url: search/
+                - identifier: suche
+                  name: Suche
+                  url: /de/search/
                   weight: 10
+                - identifier: tags
+                  name: Tags
+                  url: /tags/
+                  weight: 20
 
 
 outputs:
