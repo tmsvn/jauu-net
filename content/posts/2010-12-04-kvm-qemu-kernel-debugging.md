@@ -2,6 +2,7 @@
 title: "KVM QEMU Kernel Debugging"
 date: 2010-12-04T17:08:06+02:00
 draft: false
+tags: [optimization, kvm, qemu]
 ---
 
 Sometimes it is unavoidable to single step through the kernel because the code

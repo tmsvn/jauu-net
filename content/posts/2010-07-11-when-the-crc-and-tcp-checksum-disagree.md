@@ -2,6 +2,7 @@
 title: "When the CRC and TCP Checksum Disagree"
 date: 2010-07-11T21:14:04+02:00
 draft: false
+tags: [networking, tcp]
 ---
 
 This post recycles the title of a famous paper from

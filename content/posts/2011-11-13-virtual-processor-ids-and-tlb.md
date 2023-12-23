@@ -2,6 +2,7 @@
 title: "Virtual Processor IDs and TLB"
 date: 2011-11-13T20:26:02+02:00
 draft: false
+tags: [tlb]
 ---
 
 The translation lookaside buffer is a high-speed memory page cache for virtual

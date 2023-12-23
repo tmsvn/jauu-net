@@ -2,6 +2,7 @@
 title: "IETF I-D and RFC News"
 date: 2012-07-19T16:07:45+02:00
 draft: false
+tags: [ietf]
 ---
 
 Vancouver is near so there was a lot of I-D submission progress. I-D cutoff is

@@ -2,6 +2,7 @@
 title: "CPU Cycles versus Cacheline Miss"
 date: 2010-06-14T13:18:14+02:00
 draft: false
+tags: [optimization, cpu, cpu-cycles, cache]
 ---
 
 Optimization changed over time - optimization today does not address CPU

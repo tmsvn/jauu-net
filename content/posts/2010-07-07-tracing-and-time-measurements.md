@@ -2,6 +2,7 @@
 title: "Tracing and Time Measurements"
 date: 2010-07-07T22:56:09+02:00
 draft: false
+tags: [linux, tracing]
 ---
 
 In user-space the answer is often simple: use @gettimeofday@ if microseconds

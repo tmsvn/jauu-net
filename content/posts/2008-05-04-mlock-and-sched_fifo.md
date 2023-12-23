@@ -2,6 +2,7 @@
 title: "mlock and SCHED_FIFO"
 date: 2008-05-04T18:26:54+02:00
 draft: false
+tags: [realtime, sched-fifo, mlock]
 ---
 
 mlock() allows to lock the (current or further used) address space to physical

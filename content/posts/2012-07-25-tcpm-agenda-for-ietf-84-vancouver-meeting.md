@@ -2,6 +2,7 @@
 title: "TCPM Agenda for IETF-84 Vancouver Meeting"
 date: 2012-07-25T23:35:07+02:00
 draft: false
+tags: [tcp, ietf]
 ---
 
 Michael published the agenda for TCPM Vancouver Meeting and there are lot of

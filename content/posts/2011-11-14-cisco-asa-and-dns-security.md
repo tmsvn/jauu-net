@@ -2,6 +2,7 @@
 title: "Cisco ASA and DNS Security"
 date: 2011-11-14T22:56:25+02:00
 draft: false
+tags: [dns, networking]
 ---
 
 I started to inform how Cisco ASA, Cisco PIX and Cisco FWSM firewall appliance

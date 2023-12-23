@@ -2,6 +2,7 @@
 title: "IPv6 Again and Again"
 date: 2008-12-05T12:19:54+02:00
 draft: false
+tags: [networking]
 ---
 
 Because I see it again and again (to highlight it: I mean in NEW software):

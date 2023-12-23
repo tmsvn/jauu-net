@@ -2,6 +2,7 @@
 title: "IETF 80 Prague Registered"
 date: 2011-01-25T14:25:30+02:00
 draft: false
+tags: [ietf]
 ---
 
 "IETF 80":<http://www.ietf.org/meeting/80/> will be held in Prague - and as a early bird I registered today. The

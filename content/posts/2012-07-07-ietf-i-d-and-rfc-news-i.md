@@ -2,6 +2,7 @@
 title: "IETF I-D and RFC News - I"
 date: 2012-07-07T13:53:53+02:00
 draft: false
+tags: [ietf]
 ---
 
 I just decided to summary IETF relevant news as new I-D's or RFC's in a weekly

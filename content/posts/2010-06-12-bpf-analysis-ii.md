@@ -2,6 +2,7 @@
 title: "BPF Analysis II"
 date: 2010-06-12T23:27:41+02:00
 draft: false
+tags: [optimization, bpf]
 ---
 
 

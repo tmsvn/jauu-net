@@ -2,6 +2,7 @@
 title: "SIMD++, SSE4 and SIMD16"
 date: 2008-04-26T16:00:27+02:00
 draft: false
+tags: [optimization, simd, sse4]
 ---
 
 The SSE4 programming reference is out - a opportunity to study the

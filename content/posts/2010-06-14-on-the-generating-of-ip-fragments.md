@@ -2,6 +2,7 @@
 title: "On the Generating of IP Fragments"
 date: 2010-06-14T20:31:14+02:00
 draft: false
+tags: [networking, ipv4]
 ---
 
 If the IP packet size exceed the link layer maximum transmission unit (MTU,

@@ -2,6 +2,7 @@
 title: "Epoll versus Select"
 date: 2011-01-19T15:06:25+02:00
 draft: false
+tags: [epoll, select]
 ---
 
 I finished the select() backend for [libeve](http://libeve.dev.jauu.net/) Thus

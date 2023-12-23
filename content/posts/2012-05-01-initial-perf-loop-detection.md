@@ -2,6 +2,7 @@
 title: "Initial Perf Loop Detection"
 date: 2012-05-01T13:03:27+02:00
 draft: false
+tags: [perf, linux]
 ---
 
 Arnaldo started to implement initial loop detection in the perf annotate

@@ -2,6 +2,7 @@
 title: "Label as Values and Interpreter Optimizations"
 date: 2010-06-03T14:10:44+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 The GNU Compiler supports since several releases a unofficial C feature called

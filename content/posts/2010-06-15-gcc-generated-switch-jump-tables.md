@@ -2,6 +2,7 @@
 title: "GCC generated Switch Jump Tables"
 date: 2010-06-15T15:01:35+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 The disassembled output of filter.o looks not cache-line friendly, with the

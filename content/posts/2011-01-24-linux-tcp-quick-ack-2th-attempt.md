@@ -2,6 +2,7 @@
 title: "Linux TCP Quick ACK 2th Attempt"
 date: 2011-01-24T17:49:11+02:00
 draft: false
+tags: [tcp, ietf, linux]
 ---
 
 Back in August I submitted a

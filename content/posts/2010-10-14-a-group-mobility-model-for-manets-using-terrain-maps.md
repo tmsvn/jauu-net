@@ -2,6 +2,7 @@
 title: "A Group Mobility Model for MANETs Using Terrain Maps"
 date: 2010-10-14T17:59:28+02:00
 draft: false
+tags: [ns3, gsoc, manet]
 ---
 
 Due to the lack of money some month ago - now sounds funny - I skipped a conference

@@ -2,6 +2,7 @@
 title: "TCP Window Scaling and SYN Cookies"
 date: 2010-06-24T23:34:23+02:00
 draft: false
+tags: [networking, tcp, syn-cookies]
 ---
 
 During some off-line discussion with Florian - one of the main developers of

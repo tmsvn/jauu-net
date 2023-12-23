@@ -2,6 +2,7 @@
 title: "Jump Table Optimization For If Else Constructs"
 date: 2010-12-04T19:43:46+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 This blog post is not about micro-optimization nor about what you have to use.

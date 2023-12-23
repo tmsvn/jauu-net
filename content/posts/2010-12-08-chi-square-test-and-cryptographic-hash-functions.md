@@ -2,6 +2,7 @@
 title: "Chi Square Test and Cryptographic Hash Functions"
 date: 2010-12-08T20:11:30+02:00
 draft: false
+tags: [optimization, hashfunction]
 ---
 
 The Chi-Square probe is a statistical hypothesis test. The here presented

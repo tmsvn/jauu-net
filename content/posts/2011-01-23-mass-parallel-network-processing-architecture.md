@@ -2,6 +2,7 @@
 title: "Mass Parallel Network Processing Architecture"
 date: 2011-01-23T14:01:46+02:00
 draft: false
+tags: [optimization, epoll]
 ---
 
 Yesterday and today I wrote an ANSI C program to demonstrate how a non-blocking,

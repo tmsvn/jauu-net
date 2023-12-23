@@ -2,6 +2,7 @@
 title: "ELF Symbol Name Length"
 date: 2011-10-20T16:32:26+02:00
 draft: false
+tags: [elf]
 ---
 
 Category: unlimited. The ELF spec has no real (artificial) symbol name

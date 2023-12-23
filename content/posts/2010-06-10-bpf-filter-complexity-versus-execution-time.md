@@ -2,6 +2,7 @@
 title: "BPF Filter Complexity versus Execution Time"
 date: 2010-06-10T12:49:29+02:00
 draft: false
+tags: [optimization, bpf]
 ---
 
 Today after some time-killing IETF debates I started to analyze the in-kernel BPF filter

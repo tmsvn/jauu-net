@@ -2,6 +2,7 @@
 title: "TCP Fairness"
 date: 2011-08-01T22:01:22+02:00
 draft: false
+tags: [tcp, ietf]
 ---
 
 Last time as I posted about TCP fairness aspects of TCP I don’t touched

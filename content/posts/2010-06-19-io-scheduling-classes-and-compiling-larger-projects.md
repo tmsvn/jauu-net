@@ -2,6 +2,7 @@
 title: "IO Scheduling Classes and Compiling Larger Projects"
 date: 2010-06-19T13:22:04+02:00
 draft: false
+tags: [linux, ionice]
 ---
 
 Occasionally I am forced to build larger parts of kernel, not only the "hot area". This is mainly

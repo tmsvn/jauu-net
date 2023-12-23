@@ -2,6 +2,7 @@
 title: "BPF Optimizer"
 date: 2010-06-10T15:34:59+02:00
 draft: false
+tags: [optimization, bpf]
 ---
 
 I started to analyse the BPF optimizer. Several options helped me: "-d" to dump

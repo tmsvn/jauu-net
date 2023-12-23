@@ -2,6 +2,7 @@
 title: "SIMD To Use Intrinsics Or Not To Use Intrinsics"
 date: 2008-04-24T22:07:49+02:00
 draft: false
+tags: [optimization, simd]
 ---
 
 At a high level, intrinsics is something like a different syntax for vanilla

@@ -2,6 +2,7 @@
 title: "Compiler Block Reordering and Memory Layout Optimization"
 date: 2012-07-22T21:05:08+02:00
 draft: false
+tags: [gcc, optimization]
 ---
 
 GCC as enabled with -freorder-blocks and a optimization level

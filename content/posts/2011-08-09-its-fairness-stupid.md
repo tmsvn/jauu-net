@@ -2,6 +2,7 @@
 title: "Its Fairness Stupid"
 date: 2011-08-09T16:51:40+02:00
 draft: false
+tags: [ietf, tcp]
 ---
 
 Some thoughts about recent activity here at TCPM and some other places.

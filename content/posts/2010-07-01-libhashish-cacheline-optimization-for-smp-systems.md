@@ -2,6 +2,7 @@
 title: "Libhashish Cacheline Optimization for SMP Systems"
 date: 2010-07-01T17:06:51+02:00
 draft: false
+tags: [optimization, cache, smp]
 ---
 
 Today I spoted some cacheline misses triggered due to some false sharings in

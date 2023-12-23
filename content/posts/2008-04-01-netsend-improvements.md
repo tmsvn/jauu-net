@@ -2,6 +2,7 @@
 title: "Netsend Improvements"
 date: 2008-04-01T16:37:55+02:00
 draft: false
+tags: [linux, networking]
 ---
 
 due a productive weekend we implement three additional protocols for netsend

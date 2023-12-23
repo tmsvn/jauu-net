@@ -2,6 +2,7 @@
 title: "Identify Minimum or Maximum of a Value"
 date: 2010-08-19T21:58:08+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 To identify the minimum or maximum of two values often a simple if else

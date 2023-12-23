@@ -2,6 +2,7 @@
 title: "IPv6 Address Assignment to End Sites"
 date: 2011-01-05T23:13:38+02:00
 draft: false
+tags: [networking, ipv6]
 ---
 
 IAB/IESG Recommendations on IPv6 Address Allocations to Sites ("RFC 3177":<http://tools.ietf.org/html/rfc3177>)

@@ -2,6 +2,7 @@
 title: "Point Of Interest"
 date: 2008-06-07T23:17:08+02:00
 draft: false
+tags: [optimization, hamming-distance]
 ---
 
 Through some additional performance measurements I realize some interesting

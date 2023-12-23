@@ -2,6 +2,7 @@
 title: "Netsend TCP Options"
 date: 2008-10-02T12:27:46+02:00
 draft: false
+tags: [networking, netsend]
 ---
 
 Because of massive flaming I reintroduced the TCP Option to netsend again.

@@ -2,6 +2,7 @@
 title: "Linux ML TCP Fairness Controversy"
 date: 2010-06-01T23:12:19+02:00
 draft: false
+tags: [networking, tcp]
 ---
 
 TCP fairness discussions are quite frequent for the Linux network

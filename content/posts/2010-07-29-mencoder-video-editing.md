@@ -2,6 +2,7 @@
 title: "Mencoder Video Editing"
 date: 2010-07-29T18:12:02+02:00
 draft: false
+tags: [mencoder, linux]
 ---
 
 Today it was a lazy evening: no productive hacking, no deeper technical

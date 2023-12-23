@@ -2,6 +2,7 @@
 title: "MPI, Infiniband and IB cards"
 date: 2008-12-05T21:38:02+02:00
 draft: false
+tags: [networking, infinband]
 ---
 
 Normally you should interconnect cluster nodes via links with a short delay

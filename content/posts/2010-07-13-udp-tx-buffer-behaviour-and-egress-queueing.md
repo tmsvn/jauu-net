@@ -2,6 +2,7 @@
 title: "UDP TX Buffer Behaviour and Egress Queueing"
 date: 2010-07-13T17:29:12+02:00
 draft: false
+tags: [networking, udp]
 ---
 
 UDP sockets - if corking is disabled - always push packets directly to the

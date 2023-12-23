@@ -2,6 +2,7 @@
 title: "'IETF: TCP Authentication Option'"
 date: 2010-06-22T13:18:37+02:00
 draft: false
+tags: [networking, tcp, ietf]
 ---
 
 Just now, two new Request for Comments are now online available:

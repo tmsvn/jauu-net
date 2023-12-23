@@ -2,6 +2,7 @@
 title: "Implicit Type Conversions and Bitwise Shift Operators"
 date: 2010-12-02T23:43:01+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 A error source for ANSI C ([ISO/IEC 9899:TC2; 6.3 Conversions](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf)) is the

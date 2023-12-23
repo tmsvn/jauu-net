@@ -2,6 +2,7 @@
 title: "Libhashish Development"
 date: 2011-07-11T21:27:39+02:00
 draft: false
+tags: [hash]
 ---
 
 "Libhashish":<http://libhashish.sourceforge.net/> is one of my long term project

@@ -2,6 +2,7 @@
 title: "Increasing TCPs Initial Congestion Window"
 date: 2010-07-15T22:34:48+02:00
 draft: false
+tags: [networking, ietf, tcp, tcp-iw]
 ---
 
 Noting really special today, ... except that it is time for another debate about

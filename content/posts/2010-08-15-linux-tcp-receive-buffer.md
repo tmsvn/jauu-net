@@ -2,6 +2,7 @@
 title: "Linux TCP Receive Buffer"
 date: 2010-08-15T19:04:26+02:00
 draft: false
+tags: [tcp]
 ---
 
 just for the protocol: Linux memory management is terrible complex. Many hidden

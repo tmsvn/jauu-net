@@ -2,6 +2,7 @@
 title: "Differential Profiling"
 date: 2012-09-07T17:33:18+02:00
 draft: false
+tags: [perf]
 ---
 
 Just for the statistical guys reading my blog: Jiri Olsa posted a patch today to extend perf diff to show differential profiling. Perf diff now support three diff computations:

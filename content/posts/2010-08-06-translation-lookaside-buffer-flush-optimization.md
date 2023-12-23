@@ -2,6 +2,7 @@
 title: "Translation Lookaside Buffer Flush Optimization"
 date: 2010-08-06T22:49:59+02:00
 draft: false
+tags: [optimization, tlb, tlb-flush]
 ---
 
 The Translation Lookaside Buffer is a small associative memory that caches

@@ -2,6 +2,7 @@
 title: "GCC versus LLVM"
 date: 2011-09-07T19:11:52+02:00
 draft: false
+tags: [gcc, llvm]
 ---
 
 Today is one of these wacky days where nothing works (problems with kvm-tool, problems with RAM backed block device driver and kvm interaction and so on. But today was also the day of another Round of Vladimir Makarov gcc-versus-llvm round (gcc mailing list). To summary the highlights:

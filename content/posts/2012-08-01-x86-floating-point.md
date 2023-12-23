@@ -2,6 +2,7 @@
 title: "x86 Floating Point"
 date: 2012-08-01T15:16:05+02:00
 draft: false
+tags: [fpu, optimization]
 ---
 
 x86 Floating Point was and still is a source of problems. First of all the FPU

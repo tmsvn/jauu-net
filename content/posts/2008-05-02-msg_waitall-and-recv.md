@@ -2,6 +2,7 @@
 title: "MSG_WAITALL and recv"
 date: 2008-05-02T20:53:13+02:00
 draft: false
+tags: [networking]
 ---
 
 The recv() function has a really rare argument: MSG\_WAITALL. It tells that the

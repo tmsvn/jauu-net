@@ -2,6 +2,7 @@
 title: "Epoll and Select Overhead"
 date: 2011-01-23T22:45:54+02:00
 draft: false
+tags: [optimization, epoll]
 ---
 
 I benchmarked epoll() and select() one more time, this time restricted to

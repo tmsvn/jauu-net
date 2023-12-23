@@ -2,6 +2,7 @@
 title: "Initial Congestion Window and NS2 Testbed"
 date: 2011-01-28T23:03:30+02:00
 draft: false
+tags: [ns2, gsoc, tcp]
 ---
 
 The increase of the Initial Congestion Window (IW) throughout the land:

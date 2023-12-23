@@ -2,6 +2,7 @@
 title: "IPSec and Quagga Automating"
 date: 2010-06-14T15:13:30+02:00
 draft: false
+tags: [networking, ipsec, quagga]
 ---
 
 A tiny drawback of quagga is a missing feature to signal the host environment when

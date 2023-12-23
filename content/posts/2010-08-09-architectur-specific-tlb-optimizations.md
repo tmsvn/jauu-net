@@ -2,6 +2,7 @@
 title: "Architectur specific TLB Optimizations"
 date: 2010-08-09T20:57:39+02:00
 draft: false
+tags: [optimization, tlb]
 ---
 
 I thought about how I would design the Translation

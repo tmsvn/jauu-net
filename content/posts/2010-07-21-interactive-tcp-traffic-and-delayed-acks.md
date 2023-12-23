@@ -2,6 +2,7 @@
 title: "Interactive TCP Traffic and Delayed ACKs"
 date: 2010-07-21T16:26:45+02:00
 draft: false
+tags: [tcp]
 ---
 
 Interactive TCP traffic - like telnet - is often single byte character

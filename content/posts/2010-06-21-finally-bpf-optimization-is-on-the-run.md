@@ -2,6 +2,7 @@
 title: "Finally BPF Optimization Is On The Run"
 date: 2010-06-21T14:23:49+02:00
 draft: false
+tags: [optimization, gcc, bpf]
 ---
 
 Yesterday I submitted all patches, one for linux-kernel and one for netdev.

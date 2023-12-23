@@ -2,6 +2,7 @@
 title: "Managing various upstream Git Repositories"
 date: 2013-02-12T13:34:07+02:00
 draft: false
+tags: [git]
 ---
 
 I track some Linux kernel development subsystems: Linus, perf, network

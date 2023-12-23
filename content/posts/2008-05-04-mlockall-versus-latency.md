@@ -2,6 +2,7 @@
 title: "mlockall versus Latency"
 date: 2008-05-04T20:53:34+02:00
 draft: false
+tags: [realtime, latency, mlockall]
 ---
 
 New measurements for the mentioned, increased latency if you lock pages

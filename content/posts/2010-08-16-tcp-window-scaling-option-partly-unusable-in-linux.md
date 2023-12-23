@@ -2,6 +2,7 @@
 title: "TCP Window Scaling Option partly unusable in Linux"
 date: 2010-08-16T14:21:57+02:00
 draft: false
+tags: [ietf, tcp]
 ---
 
 TCP's window scale factor is determined at the connection start-up. Among other

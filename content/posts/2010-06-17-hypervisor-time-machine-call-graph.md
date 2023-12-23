@@ -2,6 +2,7 @@
 title: "Hypervisor Time Machine Call Graph"
 date: 2010-06-17T13:49:54+02:00
 draft: false
+tags: [linux, hypervisor]
 ---
 
 Finally: a dream comes true. Doubling or even increase tenfold the clock

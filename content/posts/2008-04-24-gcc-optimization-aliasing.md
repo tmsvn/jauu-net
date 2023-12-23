@@ -2,6 +2,7 @@
 title: "GCC Optimization Aliasing"
 date: 2008-04-24T22:47:27+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 In talks I often noted that in the a big part, pointer casts are dump and

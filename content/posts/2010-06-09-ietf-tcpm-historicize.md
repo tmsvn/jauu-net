@@ -2,6 +2,7 @@
 title: "IETF TCPM Historicize"
 date: 2010-06-09T19:52:38+02:00
 draft: false
+tags: [ietf, tcp]
 ---
 
 Lars Eggert posted today a Draft where RFC1106, RFC1110, RFC1145, RFC1146,

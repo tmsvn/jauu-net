@@ -2,6 +2,7 @@
 title: "TCP Quick ACK versus Packet Overhead"
 date: 2010-10-02T20:59:46+02:00
 draft: false
+tags: [ietf, tcp]
 ---
 
 Since several weeks I deal with TCP Quick ACK mechanism. TCP Quick ACK where

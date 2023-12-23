@@ -2,6 +2,7 @@
 title: "Linux Network Emulator Extensions"
 date: 2012-01-05T18:00:05+02:00
 draft: false
+tags: [netem, linux]
 ---
 
 Seems that the merge window for the upcomming 3.2 close. In davem's net-next

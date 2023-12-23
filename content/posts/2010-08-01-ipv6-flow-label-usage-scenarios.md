@@ -2,6 +2,7 @@
 title: "IPv6 Flow Label Usage Scenarios"
 date: 2010-08-01T23:00:45+02:00
 draft: false
+tags: [ipv6]
 ---
 
 The 20 bit wide Flow Label field in the IPv6 header is a integral part of

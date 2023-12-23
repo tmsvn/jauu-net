@@ -2,6 +2,7 @@
 title: "Recursion"
 date: 2010-08-12T14:52:19+02:00
 draft: false
+tags: [tracing, systemtap]
 ---
 
 Since several days I started to verify the Silly Window Syndrome (SWS)

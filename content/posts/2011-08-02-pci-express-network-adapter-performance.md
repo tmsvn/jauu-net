@@ -2,6 +2,7 @@
 title: "PCI Express Network Adapter Performance"
 date: 2011-08-02T12:59:54+02:00
 draft: false
+tags: [nic, pci]
 ---
 
 Today I spent quite some hours in spotting some packet drops at Gigabit line

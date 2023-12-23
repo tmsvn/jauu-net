@@ -2,6 +2,7 @@
 title: "ns3 Mercurial Repository"
 date: 2008-12-02T19:48:33+02:00
 draft: false
+tags: [networking, simulator, ns3, gsoc]
 ---
 
 To clone the parallelized ns-3 branch you can type the following:

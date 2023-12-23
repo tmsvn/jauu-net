@@ -2,6 +2,7 @@
 title: "rdtscll cleanup netsend"
 date: 2008-06-12T16:54:32+02:00
 draft: false
+tags: [optimization, rdtscll]
 ---
 
 We removed the rdtscll instruction support in netsend:

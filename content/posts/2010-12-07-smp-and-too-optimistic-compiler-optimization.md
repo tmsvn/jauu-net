@@ -2,6 +2,7 @@
 title: "SMP and too Optimistic Compiler Optimization"
 date: 2010-12-07T22:18:29+02:00
 draft: false
+tags: [optimization, smp, gcc]
 ---
 
 In a nowadays common SMP/CMP environment with more then one CPU it is necessary

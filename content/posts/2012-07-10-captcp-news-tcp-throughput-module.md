@@ -2,6 +2,7 @@
 title: "CAPTCP News - TCP Throughput Module"
 date: 2012-07-10T13:10:41+02:00
 draft: false
+tags: [tcp]
 ---
 
 The development of [captcp](http://research.protocollabs.com/captcp/#throughput)

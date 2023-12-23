@@ -2,6 +2,7 @@
 title: "BPF Opcode Analysis"
 date: 2010-06-08T18:24:51+02:00
 draft: false
+tags: [linux, bpf]
 ---
 
 The following paragraphs explain the correlation between filter rules provided

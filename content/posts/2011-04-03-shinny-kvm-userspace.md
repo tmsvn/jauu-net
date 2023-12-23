@@ -2,6 +2,7 @@
 title: "Shinny KVM Userspace"
 date: 2011-04-03T16:58:44+02:00
 draft: false
+tags: [kvm, linux]
 ---
 
 Wow, today Pekka Enberg announced a new KVM userland (e.g. a qemu pendant).

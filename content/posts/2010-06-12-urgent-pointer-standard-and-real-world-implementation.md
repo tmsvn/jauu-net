@@ -2,6 +2,7 @@
 title: "Urgent Pointer Standard and Real World Implementation"
 date: 2010-06-12T22:12:33+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 Stumbling over the Urgent Pointer code in @tcp\_recvmsg()@ and reading some

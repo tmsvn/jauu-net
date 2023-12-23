@@ -2,6 +2,7 @@
 title: "GCC Builtin Constant P and Kernel Optimization"
 date: 2012-05-07T12:23:29+02:00
 draft: false
+tags: [perf, gcc]
 ---
 
 Yesterday a discussion on LKML raised the question if it is possible to

@@ -2,6 +2,7 @@
 title: "A, AAAA and MX Records Changed"
 date: 2012-07-04T14:52:40+02:00
 draft: false
+tags: [dns]
 ---
 
 Due to a server move some IP addresses as well as certificates changed. In the

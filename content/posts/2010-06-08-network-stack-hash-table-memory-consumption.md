@@ -2,6 +2,7 @@
 title: "Network Stack Hash Table Memory Consumption"
 date: 2010-06-08T21:06:10+02:00
 draft: false
+tags: [optimization, gcc]
 ---
 
 I stumbled across the default hash size for the different hash tables used in

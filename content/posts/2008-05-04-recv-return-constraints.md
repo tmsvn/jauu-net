@@ -2,6 +2,7 @@
 title: "recv return constraints"
 date: 2008-05-04T17:35:37+02:00
 draft: false
+tags: [networking]
 ---
 
 If you call recv() to fetch data, the syscall will block if nothing happens.

@@ -2,6 +2,7 @@
 title: "TCP Minimum RTO"
 date: 2010-06-04T19:48:47+02:00
 draft: false
+tags: [networking, tcp, tcp-rto]
 ---
 
 Actually $user posted a regression that he measured a RTO of less then 200ms

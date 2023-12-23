@@ -2,6 +2,7 @@
 title: "Virtual Machine Time Lapse"
 date: 2010-06-16T21:46:20+02:00
 draft: false
+tags: [linux, kvm, hypervisor]
 ---
 
 Today I had the idea of accelerate respective decelerate the time for virtual guest
