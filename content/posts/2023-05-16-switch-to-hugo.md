@@ -12,12 +12,10 @@ hideSummary: false
 ShowRssButtonInSectionTermList: true
 ---
 
-In the digital world we live in, standing still is synonymous with going
-backwards. This is especially true for websites, which need to constantly
-evolve to keep up with the latest technologies and requirements. This is
-precisely why I have decided to fundamentally modernise my web hosting. I'm
-saying goodbye to Jekyll and Google Hosting and welcoming Hugo in conjunction
-with Cloudflare.
+After some years of non-maintenance I had to modernize the web stack to some
+degree. Some scripts doesn't work anymore and so on. This is precisely why I
+have decided to fundamentally modernise my web hosting. I'm saying goodbye to
+Jekyll and Google Hosting and welcoming Hugo in conjunction with Cloudflare.
 
 I realised the need for this change when I realised that my website, although
 up-to-date and relevant in terms of content, was lagging behind
@@ -42,9 +40,9 @@ migrate all the older pages. However, most of the content is available in the
 Internet archive and accessible to interested parties.
 
 By combining Hugo and Cloudflare, I now benefit from low latency, fast content
-delivery through QUIC and comprehensive IPv4 and IPv6 support. This ensures
-that my website is not only secure and up-to-date, but also quickly and
-reliably accessible to visitors worldwide.
+delivery through HTTP/3 (QUIC), HTTP/2 (TCP) and comprehensive IPv4 and IPv6
+support. This ensures that my website is not only secure and up-to-date, but
+also quickly and reliably accessible to visitors worldwide.
 
 Modernising my web hosting is a step towards keeping up with technological
 developments and providing a high quality, secure and fast online presence.
