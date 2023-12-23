@@ -79,7 +79,7 @@ interested in one particular topic:
 - **Linux Kernel Development**, Robert Love
 - **The Design and Implementation of the FreeBSD Operating System**, Marshall Kirk McKusick and George V. Neville-Neil (*FreeBSD but worth to read it - Tip!*)
 
-![Linksys 1900 AC Photo](../../../../images/processor-book-photo.jpg)
+![Linksys 1900 AC Photo](/posts-data/processor-book-photo.jpg)
 
 
   <div class="bs-callout bs-callout-warning">

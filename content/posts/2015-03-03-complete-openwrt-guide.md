@@ -16,7 +16,7 @@ proprietary components like FritzBox (who want's closed source in the private
 network? Do they backport all kernel bugfixes? … to many questions - not an
 option for me).
 
-![Linksys 1900 AC Photo](../../../../images/linksys-photo.jpg)
+![Linksys 1900 AC Photo](/posts-data/linksys-photo.jpg)
 
 
 For critics, comments, tips you can contact me via twitter:
