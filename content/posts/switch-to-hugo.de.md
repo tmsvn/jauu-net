@@ -1,5 +1,5 @@
 ---
-title: "Wechsel zu Hugo"
+title: "Migration to Cloudflare & Hugo"
 date: 2023-05-16T15:21:21+02:00
 draft: false
 toc: false
@@ -12,24 +12,40 @@ hideSummary: false
 ShowRssButtonInSectionTermList: true
 ---
 
-Wie so oft, wenn Dinge nicht aktiv genutzt werden, verkommen sie. So war es
-auch mit dieser Website. Inhaltlich gab es, zumindest von meiner Seite, nichts
-zu beanstanden. Was im Laufe der Zeit zum Problem wurde, war das Fehlen von TLS
-(HTTPS). Seit vielen Jahren war die Webseite auch über IPv6 erreichbar - aber
-Github unterstützte IPv6 nicht. Aber wie kam Github ins Spiel: Ich wollte den
-Buildprozess der Website vereinfachen. Bisher habe ich die Daten lokal gebaut
-und per scp auf den Server geschoben. Diese Indirektion wollte ich vermeiden -
-ein einfacher `git push` sollte alle notwendigen Aktionen auslösen.
+In the digital world we live in, standing still is synonymous with going
+backwards. This is especially true for websites, which need to constantly
+evolve to keep up with the latest technologies and requirements. This is
+precisely why I have decided to fundamentally modernise my web hosting. I'm
+saying goodbye to Jekyll and Google Hosting and welcoming Hugo in conjunction
+with Cloudflare.
 
-Da Gitlab nun IPv6 für Webseiten unterstützt, wollte ich die Umstellung an
-einem Wochenende angehen. Die Frage war nur, welche Webseiten ich generieren
-sollte. Da ich keine dynamischen Inhalte anbiete, zumindest nicht auf der
-Hauptdomain, ist ein statischer Webseitengenerator die naheliegende Wahl. Da
-ich aber die Gunst der Stunde nutzen wollte, habe ich die Modernisierung auch
-gleich genutzt, um auf Hugo umzusteigen. Der Vorteil ist die Mehrsprachigkeit -
-darauf wollte ich nicht verzichten.
+I realised the need for this change when I realised that my website, although
+up-to-date and relevant in terms of content, was lagging behind
+technologically. A key concern was the implementation of TLS (HTTPS) to ensure
+a secure and encrypted connection for visitors to my website. In our
+increasingly security-conscious digital landscape, this is no longer an option,
+but a necessity.
 
-Leider war es technisch nicht so einfach ältere Seiten mit zu migrieren, daher
-habe ich nur wenige Seiten migriert. Alle Inhalte sind aber im Internetarchiv
-zu finden.
+I used to build the website data locally and transfer it to the server via scp.
+This process was cumbersome and inefficient. My goal was to simplify updating
+the website so that a simple Git push triggers all the necessary steps -
+cloudflare is great here.
 
+The decision was made in favour of Cloudflare, which now supports QUIC for
+websites. This switch provided the perfect opportunity not only to change
+hosting, but also to update the website generator. Hugo, known for its speed
+and multilingualism, was the ideal choice. Multilingualism is a feature I
+didn't want to do without.
+
+However, the switch to Hugo was not technically easy and it was not possible to
+migrate all the older pages. However, most of the content is available in the
+Internet archive and accessible to interested parties.
+
+By combining Hugo and Cloudflare, I now benefit from low latency, fast content
+delivery through QUIC and comprehensive IPv4 and IPv6 support. This ensures
+that my website is not only secure and up-to-date, but also quickly and
+reliably accessible to visitors worldwide.
+
+Modernising my web hosting is a step towards keeping up with technological
+developments and providing a high quality, secure and fast online presence.
+It's an exciting new chapter and I'm looking forward to seeing how it develops.

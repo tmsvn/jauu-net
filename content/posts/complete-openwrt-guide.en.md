@@ -2,7 +2,7 @@
 title: "My complete OpenWrt Setup Guide"
 date: 2015-03-03T12:39:22+02:00
 draft: false
-tag: [“linux”, "open-wrt"]
+tags: [linux, open-wrt]
 ---
 
 # Introduction

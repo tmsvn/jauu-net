@@ -2,7 +2,7 @@
 date: 2015-03-24T12:39:22+02:00
 title: "Book Recommendations"
 draft: false
-tag: [“linux”, "programming"]
+tags: [linux, programming]
 ---
 
 

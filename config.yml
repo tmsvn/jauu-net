@@ -1,7 +1,7 @@
-baseURL: http://example.org/
+baseURL: http://jauu.net/
 languageCode: en-us
 title: Just Another Unix User
-theme: 'PaperMod'
+theme: 'PaperModHgn'
 
 defaultContentLanguage: en
 enableInlineShortcodes: true
@@ -17,44 +17,30 @@ minify:
     disableXML: true
     minifyOutput: true
 
-languages:
-    en:
-        languageName: ":uk:"
-        weight: 1
-        menu:
-            main:
-                - identifier: archive
-                  name: Archive
-                  url: archives
-                  weight: 5
-                - identifier: search
-                  name: Search
-                  url: search/
-                  weight: 10
-                - identifier: tags
-                  name: Tags
-                  url: /tags/
-                  weight: 20
-
-    de:
-        languageName: ":de:"
-        languageAltTitle: German
-        weight: 2
-        menu:
-            main:
-                - identifier: archive
-                  name: Archiv
-                  url: archives
-                  weight: 5
-                - identifier: suche
-                  name: Suche
-                  url: /de/search/
-                  weight: 10
-                - identifier: tags
-                  name: Tags
-                  url: /tags/
-                  weight: 20
-
+menu:
+    main:
+        - identifier: Blog
+          name: Blog
+          url: archives
+          weight: 5
+        - identifier: "about"
+          name: "About"
+          title: "About"
+          url: "/about/"
+          weight: 10
+        - identifier: "talks"
+          name: "Talks"
+          title: "Talks"
+          url: "/talks/"
+          weight: 30
+        - identifier: search
+          name: Search
+          url: search/
+          weight: 40
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 50
 
 outputs:
     home:
@@ -69,7 +55,7 @@ params:
     author: Hagen Paul Pfeifer
     # author: ["Me", "You"] # multiple authors
     # can also be dark, but auto is browser based
-    defaultTheme: dark
+    defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: false
     disableShare: True
@@ -105,6 +91,7 @@ params:
 
     assets:
         disableHLJS: false
+        customCSS: ["css/custom.css"]
     #     favicon: "<link / abs url>"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
@@ -125,6 +112,9 @@ params:
     #     minMatchCharLength: 0
     #     keys: ["title", "permalink", "summary", "content"]
 
+taxonomies:
+  category: categories
+  tag: tags
 
 markup:
     goldmark:
