@@ -1,0 +1,13 @@
+
+# disallow ChatGPT
+User-agent: GPTBot
+Disallow: /
+
+# a famous content gragger
+User-agent: CCBot
+Disallow: /
+
+# Googles generative AI crawlers
+User-agent: Google-Extended
+Disallow: /
+
