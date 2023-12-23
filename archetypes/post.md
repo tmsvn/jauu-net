@@ -4,9 +4,9 @@ description: ""
 date: {{ .Date }}
 draft: false
 tags: ["perf", "linux"]
-toc: true
+toc: false
 editPost:
-    URL: "https://github.com/hgn/jauu-net/tree/main/content/posts/"
+    URL: "https://github.com/hgn/jauu-net/tree/main/content/"
     Text: "Suggest Changes"
     appendFilePath: true
 hideSummary: false
