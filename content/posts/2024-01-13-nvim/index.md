@@ -16,35 +16,38 @@ editPost:
 questioned bad habits and analyzed repetitive pattern and switched to neovim
 with certain plugin set.  Here I describe which plugins I use and why*.
 
-Admittedly, I don't get to do much programming. Usually it's analyses using
-Python or minimal code here and there, which I create in the the evening hours.
-Sometimes hardware-related C or Rust code. But it's by no means the case that
-I'm constantly contributing code to larger software projects and programming
-24/7. The daily work routine takes its toll. Nevertheless, I still try to
-create a balance in my free time in order to to devote myself to highly
-technical, cutting edge technologies. 
+Before I go into detail, I would like to explain my working practices in this
+section. This is important because my setup is tailored to my environment and
+may be completely different for you. Admittedly, I don't get to do much
+programming. Usually using Python for analysing or minimal code here and there,
+which I create in the the evening hours. Sometimes hardware-related C or Rust
+code. But it's by no means the case that I'm constantly contributing code to
+larger software projects and do programming 24/7. The daily work routine takes its
+toll. So at the end I use vim for the following:
+
+- Smaller C/Rust/Python/Go projects with a couple of files
+- Contributing/modifying individual files in the Linux Kernel
+- LaTeX/Website editing
+- Email composing with mutt
 
 I've been using vim as an editor since I started using Linux, which was almost
 25 years ago. I used to use Emacs and at work I also came into contact with
-Sublime Text - which is a great editor (vim under Windows was never really my
-favourite). Since I usually never code at work programming at work, I have no
-need for an editor under windows. My statements therefore refer entirely to the
-Linux environment.
+Sublime Text - which is a great editor. Vim under Windows was never really my
+favourite. I have no need for an editor under windows. My statements therefore
+refer entirely to the Linux environment.
 
-Since then I have been using vim, on principle, without plugins, to be as
-flexible as possible without accumulating large digital debts or developing too
-far away from standard vim.
+Since then I have been using vim, without plugins, to be as flexible as
+possible without accumulating large digital debts or developing too far away
+from standard vim.
 
-Of course, I've been following all the neovim trends and the many new command
-line tools, often developed in Rust. Where I have actually renewed myself with
-the command line tools by using new tools, I have not changed my vim habits. I
-just had the feeling that I could work very efficiently with my editor.
-
+Of course, I've been following the Neovim fork debate, technical Neovim trends.
+But I have not changed my vim habits during the years that much. I just had the
+feeling that I could work very efficiently with my editor.
 Over the last two years, however, I've started to try out new things, to
-question bad habits, to look specifically at where my workflow can be improved,
-where repetitive patterns are hidden and so on.
+question bad (say inefficient) habits, to look specifically at where my
+workflow can be improved, where repetitive patterns are hidden and so on.
 
-Well, and what can I say, for 2 years I have actually been using neovim with a
+Well, and what can I say, for 1.5 years I have actually been using Neovim with a
 number of plugins and I would like to introduce them here together with my
 workflow. Here is a first screenshot:
 
@@ -117,7 +120,7 @@ split view. But there are many more option how to deal with telescope.
 
 Some projects use [editorconf}(https://editorconfig.org/) files to specify
 standardized formatting. In a generalized way. In order for this to be
-processed by vim neovim, a plugin is necessary. The standard Plugin is
+processed by Vim or Neovim, a plugin is necessary. The standard Plugin is
 [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim). For
 example, the following elements for example are supported: `indent_style`,
 `indent_size`, `tab_width`, `end_of_line`, `charset`, `insert_final_newline`.
@@ -197,10 +200,10 @@ The project homepage is
   file management.
 - No session management. Just lack of longer standing session where the
   "overhead" make sense.
-- No startup dashboard like startify, I usually start vim with an file argument
+- No startup dashboard like startify, I usually start Vim with an file argument
   (so open a file) or instantly open telescope to open a file. No need for an
   additional interruption beforehand.
-- No note-taking plugin like obsidian or vim orgmode clones. Just no need for this.
+- No note-taking plugin like obsidian or Vim orgmode clones. Just no need for this.
 - No terminal integration, no tmux bridge, nothing
 - No commenting plugin, do not work for me (I don't write comments! ;-))
 
@@ -211,9 +214,9 @@ can be found here:
 
 ## Keybindings
 
-It makes no sense to copy my whole vim configuration here. I just want to
+It makes no sense to copy my whole Vim configuration here. I just want to
 highlight some of the more important option here. The posted keybindings are
-often in vim syntax, I have not yet converted them to Lua.
+often in Vim syntax, I have not yet converted them to Lua.
 
 
 ### Leader
