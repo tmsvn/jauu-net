@@ -1,5 +1,5 @@
 ---
-title: "A Breath of Fresh Air - Updated Neovim Setup"
+title: "A Breath of Fresh Air - From vim to neovim"
 description: ""
 date: 2024-01-12T08:49:59+01:00
 draft: false
