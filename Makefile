@@ -4,6 +4,10 @@ all:
 server:
 	hugo server --navigateToChanged --buildDrafts
 
+check:
+	@rm -rf public/
+	hugo
+
 bootstrap:
 	sudo apt install hugo
 	git submodule update --init --recursive

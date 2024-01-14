@@ -51,7 +51,7 @@ Well, and what can I say, for 1.5 years I have actually been using Neovim with a
 number of plugins and I would like to introduce them here together with my
 workflow. Here is a first screenshot:
 
-![nvim standard screen](nvim-std.png)
+[![nvim standard screen](nvim-std.png)](nvim-std.png)
 
 
 About my basic way of working: I usually have a vim open and navigate in this
@@ -118,7 +118,7 @@ split view. But there are many more option how to deal with telescope.
 
 ### Editorconfig
 
-Some projects use [editorconf}(https://editorconfig.org/) files to specify
+Some projects use [editorconf](https://editorconfig.org/) files to specify
 standardized formatting. In a generalized way. In order for this to be
 processed by Vim or Neovim, a plugin is necessary. The standard Plugin is
 [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim). For
@@ -134,7 +134,7 @@ on the screen with a maximum of 3 buttons. For this I use
 In the image you see the highlighed movement marks, after I started to "define"
 my next jump destination:
 
-![nvim leap screen](leap.png)
+[![nvim leap screen](leap.png)](leap.png)
 
 ### Lualine
 
@@ -165,7 +165,7 @@ Here on the left the active window, right is the inactive window. The shading
 effect is configured in a light way, so that reading on the shaded window is
 still possible without problems.
 
-![nvim shade screen](shade.png)
+[![nvim shade screen](shade.png)](shade.png)
 
 ### Gitsigns
 
@@ -176,7 +176,7 @@ large repos like kernel and so on.
 
 You can see this in the screenshot with the green line on the left-hand side:
 
-![nvim standard screen](nvim-std.png)
+[![nvim standard screen](nvom-std.png)](nvim-std.png)
 
 The project homepage is
 [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim).
