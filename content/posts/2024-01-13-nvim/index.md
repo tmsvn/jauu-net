@@ -176,7 +176,7 @@ large repos like kernel and so on.
 
 You can see this in the screenshot with the green line on the left-hand side:
 
-[![nvim standard screen](nvom-std.png)](nvim-std.png)
+[![nvim standard screen](nvim-std.png)](nvim-std.png)
 
 The project homepage is
 [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim).
