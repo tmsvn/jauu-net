@@ -33,10 +33,10 @@ menu:
           title: "Talks"
           url: "/talks/"
           weight: 30
-        - identifier: search
-          name: Search
-          url: search/
-          weight: 40
+#         - identifier: search
+#           name: Search
+#           url: search/
+#           weight: 40
         - identifier: tags
           name: Tags
           url: /tags/
