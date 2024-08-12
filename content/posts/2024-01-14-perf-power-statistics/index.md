@@ -26,29 +26,32 @@ editPost:
 > - Part 2: Timer Module - Analyze timer relevant information
 > - Part 3: Governor Module - Possibilities for Governor analysis.
 
-The perf power analyzer script try to fill the gap between applications like
-powertop who provides high level insights about power management crucial
-characteristics and other extreme of a complete manual analysis of power
-relevant subsystems using raw tracepoints and co with the goal to power
-optimize sytems.
+The perf power analyzer try to fill the gap between applications like
+powertop who provides high level insights about power management and a raw
+tracepoint/kprobes based analysis to find the "power hogs". Where the former,
+powertop based analysis provides an rough first glimpse of where power is
+consumed, the later provides detailed information for the developer to optimize
+the system. The perf power analyzer eliminates a large part of the development
+required to discover the causes of inefficient power management practices. It
+also points to the causes, even if the upcoming experts do not yet have the
+necessary detailed knowledge. 
 
-The following illustration shows one of the many ways of preparing and
-graphically displaying the data. Here, for example, task (userspace and kernel)
+The following "hello world" illustration shows one of the many analysis
+provided by perf power analyzer. Here, for example, task (userspace and kernel)
 wakeups per CPU core of an 32 core system are visualized. This analysis
-provides important information about the CPU utilization per core. But as
-already explained, this is one of many analyses that are available and
-explained in great detail in the article series.
+provides important information about the CPU utilization per core. This is one
+of many analyses that are available and explained in great detail in the
+article series.
 
 [![desc](cover.png)](cover.png)
 
-The perf script extract the most relevant power management data from the
-kernel and present it in a module-specific and pre-processed form.
-Additionally, the data created is explicitly designed to be passed on to
-further specialized analysis scripts in order to obtain more detailed and
-graphical analyses. Nevertheless, the majority of modules already provide a
-very detailed insight, just by looking at them, without you having to go any
-deeper. Many in-kernel details are abstracted away and simultanously provides
-the raw data for further analysis.
+Perf power analyzer extract the most relevant power management data from the
+kernel and process them module-specific. Additionally, the data created is
+explicitly designed to be passed on to further specialized analysis scripts in
+order to obtain more detailed and graphical analyses. Nevertheless, the
+majority of modules already provide a very detailed insight, just by looking at
+them, without you having to go any deeper. Many in-kernel details are
+abstracted away and simultanously provides the raw data for further analysis.
 
 Some analyses at this level require a deep understanding of the Linux Kernel
 and its processes - unfortunately, the script cannot compensate for this.
